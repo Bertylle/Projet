@@ -1,6 +1,8 @@
 Projet
 ======
 
+<body style="background:#80BFFF">
+
 Ci dessous se trouvent les différentes commandes git utiles à la récupération des données.
 
 Vous devez en tout premier installer GIT sur votre ordinateur, étant sur Ubuntu je ne sais pas trop comment ça fonctionne sous windows et je vous laisse donc vous débrouillez pour cette première partie.
