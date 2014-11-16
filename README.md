@@ -6,8 +6,11 @@ Projet
 * Vous devez en tout premier installer GIT sur votre ordinateur, étant sur Ubuntu je ne sais pas trop comment ça fonctionne sous windows et je vous laisse donc vous débrouillez pour cette première partie.
 
 * Ensuite il vous faut cloner le dossier "<b>Projet</b>" que j'ai créé et sur lequel se trouvent maintenant toutes les données des mesures que nous avons effectué lors de la première séance. Pour ce faire, il faut :
-- ouvrir un terminal
-- taper : <FONT color="grey">git clone https://github.com/Bertylle/Projet.git </FONT>
+
+ <ul style="list-style-type:square">
+  <li>ouvrir un terminal</li>
+  <li>taper : <u>git clone https://github.com/Bertylle/Projet.git</u></li>
+</ul> 
 
 Un dossier nommé projet se créé normalement dans votre dossier principal. Il contient déjà toutes les données dont j'ai parlé précédemment.
 
@@ -18,8 +21,4 @@ Pour aller dans sa branch, il faut taper la commande :
 puis pour vérifier qu'on est bien sur la bonne branch :
 - git branch
 
- <ul style="list-style-type:square">
-  <li>Coffee</li>
-  <li>Tea
-  <li>Milk</li>
-</ul> 
+
