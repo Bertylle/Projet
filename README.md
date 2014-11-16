@@ -9,7 +9,7 @@ Projet
 
  <ul style="list-style-type:square">
   <li>ouvrir un terminal</li>
-  <li>taper : <u>git clone https://github.com/Bertylle/Projet.git</u></li>
+  <li>taper : <b>git clone https://github.com/Bertylle/Projet.git</b></li>
 </ul> 
 
 Un dossier nommé projet se créé normalement dans votre dossier principal. Il contient déjà toutes les données dont j'ai parlé précédemment.
