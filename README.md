@@ -19,7 +19,9 @@ Un dossier nommé projet se créé normalement dans votre dossier principal. Il 
 Pour aller dans sa branch, il faut taper la commande :
 <ul style="list-style-type:square">
 	<li>git checkout mon_nom<li>
+</ul>
 puis pour vérifier qu'on est bien sur la bonne branch :
+<ul style="list-style-type:square">
 	<li>git branch</li>
 </ul>
 

@@ -14,11 +14,15 @@ Projet
 
 Un dossier nommé projet se créé normalement dans votre dossier principal. Il contient déjà toutes les données dont j'ai parlé précédemment.
 
-Pour que nous ne trafiquions pas tous les données n'importe comment je nous ai créé chacun une branche où nous pouvons modifier les fichiers et ce personnellement, c'est à dire que dans la branch MASTER se trouvent les fichiers d'origine (il ne faut pas toucher à ceux là). Dans la branch nommée à votre nom vous avez le droit de faire ce que vous voulez !!
+* Pour que nous ne trafiquions pas tous les données n'importe comment je nous ai créé chacun une branche où nous pouvons modifier les fichiers et ce personnellement, c'est à dire que dans la branch MASTER se trouvent les fichiers d'origine (il ne faut pas toucher à ceux là). Dans la branch nommée à votre nom vous avez le droit de faire ce que vous voulez !!
 
 Pour aller dans sa branch, il faut taper la commande :
-- git checkout mon_nom
+<ul style="list-style-type:square">
+	<li>git checkout mon_nom<li>
 puis pour vérifier qu'on est bien sur la bonne branch :
-- git branch
+	<li>git branch</li>
+</ul>
+
+
 
 
