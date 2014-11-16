@@ -18,22 +18,8 @@ Pour aller dans sa branch, il faut taper la commande :
 puis pour vérifier qu'on est bien sur la bonne branch :
 - git branch
 
-<HTML>
-<HEAD>
-    <TITLE>Police de caractère</TITLE>
- 
-<BODY>
-    <P>
-        <FONT color="#ff0000">Texte en rouge</FONT><BR>
-        <FONT color="#00ff00">Texte en vert</FONT><BR>
-        <FONT color="#0000ff">Texte en bleu</FONT><BR>
-        <FONT color="#5a98f7">Texte en couleur quelconque</FONT>
- 
-    <P>
-        <FONT size="1">Texte en 8 points</FONT><BR>
-        <FONT size="2">Texte en 10 points</FONT><BR>
-        <FONT size="4">Texte en 14 points</FONT>
- 
-    <P>
-        <FONT face="Verdana">Texte en Verdana</FONT><BR>
-        <FONT face="Times New Roman">Texte en Times New Roman</FONT>
+ <ul style="list-style-type:square">
+  <li>Coffee</li>
+  <li>Tea
+  <li>Milk</li>
+</ul> 
