@@ -1,0 +1,6 @@
+[Général]
+Version="4.5"
+Nom du projet="Projet"
+Date="12/11/2014"
+Auteur=""
+Commentaire=""

@@ -1,0 +1,13 @@
+[Calibrations absolues]
+Version = "4.5"
+Nom du projet = "Projet"
+Date = "12/11/2014"
+Opérateur = ""
+
+[Unités]
+Microphone = "mV/Pa"
+Source = "mV/V"
+
+[Sensibilités]
+Microphone = 395.357464
+Source = 1000.000000
