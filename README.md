@@ -1,15 +1,13 @@
 Projet
 ======
 
-<body style="background:#80BFFF">
+<i> Ci dessous se trouvent les différentes commandes git utiles à la récupération des données. </i>
 
-Ci dessous se trouvent les différentes commandes git utiles à la récupération des données.
+* Vous devez en tout premier installer GIT sur votre ordinateur, étant sur Ubuntu je ne sais pas trop comment ça fonctionne sous windows et je vous laisse donc vous débrouillez pour cette première partie.
 
-Vous devez en tout premier installer GIT sur votre ordinateur, étant sur Ubuntu je ne sais pas trop comment ça fonctionne sous windows et je vous laisse donc vous débrouillez pour cette première partie.
-
-Ensuite il vous faut cloner le dossier "Projet" que j'ai créé et sur lequel se trouvent maintenant toutes les données des mesures que nosu avons effectuées lors de la première séance. Pour se faire, il faut :
+* Ensuite il vous faut cloner le dossier "<b>Projet</b>" que j'ai créé et sur lequel se trouvent maintenant toutes les données des mesures que nous avons effectué lors de la première séance. Pour ce faire, il faut :
 - ouvrir un terminal
-- taper : git clone https://github.com/Bertylle/Projet.git
+- taper : <FONT color="grey">git clone https://github.com/Bertylle/Projet.git </FONT>
 
 Un dossier nommé projet se créé normalement dans votre dossier principal. Il contient déjà toutes les données dont j'ai parlé précédemment.
 
@@ -19,5 +17,9 @@ Pour aller dans sa branch, il faut taper la commande :
 - git checkout mon_nom
 puis pour vérifier qu'on est bien sur la bonne branch :
 - git branch
+
+<body bgcolor="#FFFFFF" text="#000000">
+ici le texte est écrit en noir <FONT COLOR="#FF0000">Ici en rouge</font>
+</body>
 
 <b>votre texte en gras</b> 
