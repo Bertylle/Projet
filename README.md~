@@ -17,5 +17,3 @@ Pour aller dans sa branch, il faut taper la commande :
 - git checkout mon_nom
 puis pour vérifier qu'on est bien sur la bonne branch :
 - git branch
-
-<b>votre texte en gras</b> 
